@@ -46,7 +46,8 @@ Sales-Performance-Dashboard/
 
 ## 📈 Dashboard Preview
 Sales Performance Dashboard
-<img width="891" height="502" alt="SalesDash1" src="https://github.com/user-attachments/assets/b1d1b2e6-a0bb-4ec2-ad43-7b63dc9379de" />
+<img width="891" height="502" alt="SalesDash1" src="https://github.com/user-attachments/assets/157968ee-0c3e-40b7-ae91-e118f8653cb3" />
+
 
 Sales Forcasting
 
