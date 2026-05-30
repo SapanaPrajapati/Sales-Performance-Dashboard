@@ -24,7 +24,7 @@ This project analyzes sales performance data to provide actionable business insi
 - Microsoft Excel
 - SQL (MySQL)
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- GitHub
+
 
 ---
 
@@ -34,24 +34,15 @@ This project analyzes sales performance data to provide actionable business insi
 Sales-Performance-Dashboard/
 │
 ├── Dataset/
-│   └── Sales_Data.xlsx
-│
-├── SQL/
-│   └── sales_analysis.sql
-│
-├── Python/
-│   └── sales_analysis.ipynb
+│   └── SuperStore Sales DataSet.xlsx
 │
 ├── Dashboard/
-│   └── Sales_Performance_Dashboard.pbix
+│   └── Sales_Dashboard.pbix
 │
 ├── Images/
-│   └── dashboard_screenshot.png
-│
-└── README.md
-```
+│   └── SalesDash1.jpg
+    └── SalesDas2.jpg
 
----
 
 ## 📈 Dashboard Preview
 Sales Performance Dashboard
@@ -116,7 +107,7 @@ Performed:
 ```python
 import pandas as pd
 
-df = pd.read_excel("Sales_Data.xlsx")
+df = pd.read_excel("SuperStore Sales DataSet.xlsx")
 
 total_sales = df["Sales"].sum()
 total_profit = df["Profit"].sum()
@@ -181,20 +172,5 @@ This dashboard enables businesses to:
 
 ---
 
-## 📷 Additional Screenshots
-
-### Sales Overview Dashboard
-
-![Sales Overview](Images/dashboard_screenshot.png)
-
----
-
-## 👩‍💻 Author
-
-Sapana Prajapati
-
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
-
----
 
 ⭐ If you found this project useful, consider giving it a star!
