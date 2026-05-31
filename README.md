@@ -28,6 +28,21 @@ This project analyzes sales performance data to provide actionable business insi
 
 ---
 
+
+## 📈 Dashboard Preview
+Sales Performance Dashboard
+<img width="891" height="502" alt="SalesDash1" src="https://github.com/user-attachments/assets/2800521e-61bc-476c-be27-bf6a802afdcc" />
+
+
+
+Sales Forcasting
+
+<img width="877" height="498" alt="SalesDas2" src="https://github.com/user-attachments/assets/1d0990ab-5186-468d-a24b-3ee901414324" />
+
+
+
+
+
 ## 📂 Project Structure
 
 ```
@@ -42,18 +57,6 @@ Sales-Performance-Dashboard/
 ├── Images/
 │   └── SalesDash1.jpg
     └── SalesDas2.jpg
-
-
-## 📈 Dashboard Preview
-Sales Performance Dashboard
-<img width="891" height="502" alt="SalesDash1" src="https://github.com/user-attachments/assets/2800521e-61bc-476c-be27-bf6a802afdcc" />
-
-
-
-Sales Forcasting
-
-<img width="877" height="498" alt="SalesDas2" src="https://github.com/user-attachments/assets/1d0990ab-5186-468d-a24b-3ee901414324" />
-
 
 ---
 
